@@ -1,5 +1,7 @@
 # Clojure Mode
 
+NOTE: This repository is deprecated; see [technomancy](http://github.com/technomancy/clojure-mode).
+
 Provides font-lock, indentation, and navigation for the
 [Clojure language](http://clojure.org).
 
